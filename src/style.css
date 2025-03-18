@@ -21,7 +21,7 @@
 
 .screen{
     width: 94%;
-    height: 50px;
+    height: 100px;
     margin-bottom: 20px;
     background-color: #f0f0f0;
     border: 1px solid #ddd;
@@ -50,4 +50,10 @@
 
 .button:hover{
     background-color: #f0f0f0;
+}
+.title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
 }

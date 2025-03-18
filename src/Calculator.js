@@ -2,6 +2,8 @@ import { useState } from "react";
 import "./style.css"
 
 function Calculator(){
+
+  const[title, setTitle]= useState('e-smaterch Calculator');
   
       const[result, setResult]=useState('');
 
